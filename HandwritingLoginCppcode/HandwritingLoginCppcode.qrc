@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/HandwritingLoginCppcode">
+        <file>Resources/close.png</file>
+        <file>Resources/enpriseweichat.png</file>
+        <file>Resources/logo.jpg</file>
+        <file>Resources/min.png</file>
+        <file>Resources/phonelogin.png</file>
+        <file>Resources/set.png</file>
+        <file>Resources/sso.png</file>
+        <file>Resources/weichatlogin.png</file>
+    </qresource>
+</RCC>

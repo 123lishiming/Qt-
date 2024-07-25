@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/listwidget_03">
+        <file>resources/editor.png</file>
+        <file>resources/env.png</file>
+        <file>resources/help.png</file>
+        <file>resources/kits.png</file>
+        <file>resources/vim.png</file>
+    </qresource>
+</RCC>

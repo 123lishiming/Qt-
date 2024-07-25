@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TencentMeetingLogin", "TencentMeetingLogin\TencentMeetingLogin.vcxproj", "{F3323578-5B06-492C-939F-24CDC31CD5FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLayout", "HLayout\HLayout.vcxproj", "{16628497-4D8E-403B-8B69-9E09D82FBFC4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listwidget_02", "Listwidget_02\Listwidget_02.vcxproj", "{B26E36A8-578B-4B2D-8473-73174747AD52}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HandwritingLoginCppcode", "HandwritingLoginCppcode\HandwritingLoginCppcode.vcxproj", "{EBA55A01-4F9E-4DB0-8EB3-C6EA821E6D26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "测试代码", "测试代码\测试代码.vcxproj", "{CD77E485-66BE-48B5-935B-02B1E2DE863E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "listwidget_03", "listwidget_03\listwidget_03.vcxproj", "{BC818208-1232-4EEF-A25F-78FDDE9E9E25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScrollArea_XunLeiSetDemo", "ScrollArea_XunLeiSetDemo\ScrollArea_XunLeiSetDemo.vcxproj", "{89E6805F-9410-4577-9300-2F8E7FB17021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3323578-5B06-492C-939F-24CDC31CD5FA}.Debug|x64.ActiveCfg = Debug|x64
+		{F3323578-5B06-492C-939F-24CDC31CD5FA}.Debug|x64.Build.0 = Debug|x64
+		{F3323578-5B06-492C-939F-24CDC31CD5FA}.Release|x64.ActiveCfg = Release|x64
+		{F3323578-5B06-492C-939F-24CDC31CD5FA}.Release|x64.Build.0 = Release|x64
+		{16628497-4D8E-403B-8B69-9E09D82FBFC4}.Debug|x64.ActiveCfg = Debug|x64
+		{16628497-4D8E-403B-8B69-9E09D82FBFC4}.Debug|x64.Build.0 = Debug|x64
+		{16628497-4D8E-403B-8B69-9E09D82FBFC4}.Release|x64.ActiveCfg = Release|x64
+		{16628497-4D8E-403B-8B69-9E09D82FBFC4}.Release|x64.Build.0 = Release|x64
+		{B26E36A8-578B-4B2D-8473-73174747AD52}.Debug|x64.ActiveCfg = Debug|x64
+		{B26E36A8-578B-4B2D-8473-73174747AD52}.Debug|x64.Build.0 = Debug|x64
+		{B26E36A8-578B-4B2D-8473-73174747AD52}.Release|x64.ActiveCfg = Release|x64
+		{B26E36A8-578B-4B2D-8473-73174747AD52}.Release|x64.Build.0 = Release|x64
+		{EBA55A01-4F9E-4DB0-8EB3-C6EA821E6D26}.Debug|x64.ActiveCfg = Debug|x64
+		{EBA55A01-4F9E-4DB0-8EB3-C6EA821E6D26}.Debug|x64.Build.0 = Debug|x64
+		{EBA55A01-4F9E-4DB0-8EB3-C6EA821E6D26}.Release|x64.ActiveCfg = Release|x64
+		{EBA55A01-4F9E-4DB0-8EB3-C6EA821E6D26}.Release|x64.Build.0 = Release|x64
+		{CD77E485-66BE-48B5-935B-02B1E2DE863E}.Debug|x64.ActiveCfg = Debug|x64
+		{CD77E485-66BE-48B5-935B-02B1E2DE863E}.Debug|x64.Build.0 = Debug|x64
+		{CD77E485-66BE-48B5-935B-02B1E2DE863E}.Release|x64.ActiveCfg = Release|x64
+		{CD77E485-66BE-48B5-935B-02B1E2DE863E}.Release|x64.Build.0 = Release|x64
+		{BC818208-1232-4EEF-A25F-78FDDE9E9E25}.Debug|x64.ActiveCfg = Debug|x64
+		{BC818208-1232-4EEF-A25F-78FDDE9E9E25}.Debug|x64.Build.0 = Debug|x64
+		{BC818208-1232-4EEF-A25F-78FDDE9E9E25}.Release|x64.ActiveCfg = Release|x64
+		{BC818208-1232-4EEF-A25F-78FDDE9E9E25}.Release|x64.Build.0 = Release|x64
+		{89E6805F-9410-4577-9300-2F8E7FB17021}.Debug|x64.ActiveCfg = Debug|x64
+		{89E6805F-9410-4577-9300-2F8E7FB17021}.Debug|x64.Build.0 = Debug|x64
+		{89E6805F-9410-4577-9300-2F8E7FB17021}.Release|x64.ActiveCfg = Release|x64
+		{89E6805F-9410-4577-9300-2F8E7FB17021}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6344B61C-89D4-4709-841F-B6E65F90AB2F}
+	EndGlobalSection
+EndGlobal
